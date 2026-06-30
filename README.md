@@ -10,17 +10,6 @@
 
 <br/>
 
-<!-- ===== VISITOR COUNTER ===== -->
-<img src="https://komarev.com/ghpvc/?username=avani-srivastavaa&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/avani-srivastavaa?tab=followers">
-  <img src="https://img.shields.io/github/followers/avani-srivastavaa?style=for-the-badge&color=C084FC&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 </div>
@@ -68,8 +57,6 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 </div>
@@ -77,7 +64,6 @@
 ---
 
 <!-- ===== TECH STACK ===== -->
-<div align="center">
 
 ## 🛠️ `< Tech Stack />` 🛠️
 
@@ -109,13 +95,6 @@
 <br/>
 
 ---
-
-<!-- ===== GITHUB STATS ===== -->
-<div align="center">
-
-## 📊 `< GitHub Stats />` 📊
-
-<br/>
 
 <!-- ===== SNAKE ANIMATION ===== -->
 <div align="center">
@@ -159,10 +138,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
-<br/>
+---
+---
 
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
