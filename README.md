@@ -1,4 +1,4 @@
-<img src="avani.jpg" align="right" width="180" style="border-radius:50%;" />
+<!-- <img src="avani.jpg" align="right" width="180" style="border-radius:50%;" /> -->
 
 # Hi there 👋 I'm Avani Srivastava
 
