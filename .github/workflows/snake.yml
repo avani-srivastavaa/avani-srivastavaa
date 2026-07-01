@@ -16,7 +16,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: avani-srivastavaa
-          outputs: dist/github-contribution-grid-snake-dark.svg?color_snake=%23bd34fe,%237c3aed&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353&color_empty=%23161b22
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#bd34fe&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_empty=#161b22
+            dist/github-contribution-grid-snake-light.svg?color_snake=#8b5cf6&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&color_empty=#ebedf0
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
