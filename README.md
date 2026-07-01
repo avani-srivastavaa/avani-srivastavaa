@@ -1,137 +1,81 @@
 <div align="center">
 
-<!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avani%20Srivastava&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=58&descColor=C084FC" width="100%"/>
+<!-- AVATAR -->
+<img src="your-avatar-filename-here.jpg"
+     alt="Avatar – Avani Srivastava, full-stack & AI developer"
+     width="120"
+     style="border-radius:50%; border: 2px solid #00E0FF; box-shadow: 0 0 12px #FF7BA9;" />
 
-<!-- ===== TYPING ANIMATION ===== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Hey+there%2C+I'm+Avani+%F0%9F%91%8B;AI+Engineer+%26+Full+Stack+Developer+%F0%9F%A4%96;Building+intelligent+systems+%F0%9F%9A%80;RAG+Pipelines+%7C+LLMs+%7C+Microservices+%E2%9A%A1;Open+Source+%7C+Cloud+%7C+GenAI+%F0%9F%8C%8C" alt="Typing SVG" />
-</a>
+# Hey, I'm Avani ✨
+### I ship full-stack & AI-powered apps — microservices, RAG pipelines, Kubernetes, and a little bit of pink 🌸
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
-</div>
-
-<!-- ===== ABOUT ME ===== -->
-<div align="center">
-
-## ✨ `< About Me />` ✨
-
-<table>
-<tr>
-
-<td width="40%" align="center">
-  <img src="YOUR_GIRL_CODER_GIF_OR_IMAGE_LINK" width="280px" alt="Girl Coder"/>
-</td>
-
-<td width="60%">
-
-### Hi, I'm Avani 👋
-
-💜 B.Tech Computer Engineering student passionate about building AI-powered applications.
-
-🤖 Exploring **Generative AI, LLMs, Full Stack Development,** and **Open Source**.
-
-🌱 Currently learning **Agentic AI, LangGraph, and Advanced RAG Systems**.
-
-☕ I love creating beautiful, user-friendly experiences where design meets technology.
-
-✨ Always curious, always building, always learning.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-| 🔭 Currently Building | 🌱 Currently Learning | 👯 Open to Collaborate |
-|:---:|:---:|:---:|
-| Cloud-native AI platforms | LangGraph & Agentic AI | Open Source & GenAI Projects |
-| **💬 Ask me about** | **⚡ Fun Fact** | **📫 Reach me at** |
-| RAG, LLMs, FastAPI, Docker | Secretary @ GDG PCE 🎯 | avanisrivastava16genai@gmail.com |
+**Computer Engineering Undergrad · Full-Stack & AI/LLM Developer**  
+📍 Kharghar, Maharashtra, India
 
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-</div>
-
-<!-- ===== TECH STACK ===== -->
-
-## 🛠️ `< Tech Stack />` 🛠️
-
-### 💜 Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,php&theme=dark" />
-
-### 🌸 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,figma&theme=dark" />
-
-### ⚡ Backend
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,graphql&theme=dark" />
-
-### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase&theme=dark" />
-
-### ☁️ Tools
-<img src="https://skillicons.dev/icons?i=docker,firebase,git,github,vscode&theme=dark" />
-
-</div>
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,react,fastapi,flask,django,docker,kubernetes,postgresql,mysql,redis,git,github,figma,vscode&theme=dark&perline=8" />
-</div>
-
-<br/>
 
 ---
 
-<!-- ===== SNAKE ANIMATION ===== -->
-<div align="center">
+## 🔧 What I build
 
-## 🐍 `< Contribution Snake />` 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
-
-</div>
-
-<br/>
+- **Cloud-native platforms** — microservices-first, containerised with Docker, orchestrated on Kubernetes, built to scale.
+- **AI/LLM-powered apps** — RAG pipelines, Gemini API, FAISS vector search, embedding similarity, real-time scoring.
+- **Production-grade full-stack systems** — secure auth, REST APIs, WebSocket dashboards, and clean backend architecture from day one.
 
 ---
 
-<br/>
+## 🚀 Featured Projects
 
-<!-- ===== CONNECT ===== -->
+### ⚡ Skill IQ
+An AI-powered interview platform built on 5+ FastAPI microservices with Kafka-driven real-time evaluation, an LLM + embedding + rubric scoring pipeline, and live React/WebSockets dashboards — containerised and orchestrated end-to-end.  
+`FastAPI` · `React` · `Kafka` · `Redis` · `PostgreSQL` · `Kubernetes` · `Docker`
+
+---
+
+### 📚 StudyTube AI
+Converts any YouTube video into 4 study formats (notes, quizzes, flashcards, mind maps) plus interview prep — powered by a RAG pipeline with FAISS vector search and Gemini AI for context-aware tutoring over full transcripts.  
+`React` · `FastAPI` · `Python` · `Gemini AI` · `FAISS` · `Supabase`
+
+---
+
+### 🍱 TiffinSpin
+Full-stack meal ordering app with secure session auth, dynamic menu browsing, and a complete cart-to-checkout flow, backed by a modular Flask blueprint architecture and MySQL for transactional data.  
+`Flask` · `MySQL` · `HTML` · `CSS` · `JavaScript`
+
+---
+
+## 🛠️ Tech Stack
+
+| | |
+|---|---|
+| **Languages** | Python · Java · JavaScript |
+| **Backend** | FastAPI · Flask · Django · PHP |
+| **Frontend** | React · HTML5 · CSS3 |
+| **AI / LLMs** | LLMs · RAG · Gemini API · FAISS · Prompt Engineering |
+| **Databases** | MySQL · PostgreSQL · Redis · Supabase |
+| **Cloud & DevOps** | Docker · Kubernetes · Firebase · GitHub Actions |
+| **Tools** | Kafka · WebSockets · Git · REST APIs · GraphQL · Figma |
+
+---
+
+## 📡 Currently & Looking For
+
+- Building more production-ready AI systems — scaling RAG, improving inference pipelines, and tightening DevOps automation.
+- Deepening expertise in platform engineering and distributed systems.
+- Open to **internships and full-time roles** in Full-Stack, AI/ML Engineering, or Platform Engineering.
+
+---
+
+## 📬 Let's talk
+
+| | |
+|---|---|
+| 💻 GitHub | [github.com/avani-srivastavaa](https://github.com/avani-srivastavaa) |
+| 🔗 LinkedIn | [linkedin.com/in/avani-srivastava-1202b22b9](https://linkedin.com/in/avani-srivastava-1202b22b9) |
+| 📧 Email | [avanisrivastava16genai@gmail.com](mailto:avanisrivastava16genai@gmail.com) |
+
+---
+
 <div align="center">
-
-## 🌐 `< Let's Connect />` 🌐
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avani-srivastava-1202b22b9)
-[![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avani-srivastavaa)
-[![Gmail](https://img.shields.io/badge/Gmail-00F5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:avanisrivastava16genai@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/avani_srivastavaa)
-
+<sub>Secretary · Google Developers Group PCE &nbsp;|&nbsp; Best All-Girls Team · Velocity Tech 2025 &nbsp;|&nbsp; CGPA 8.7/10 ✨</sub>
 </div>
-
-<br/>
-
-<!-- ===== FOOTER ===== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
-
-
