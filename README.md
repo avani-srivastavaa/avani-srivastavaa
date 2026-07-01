@@ -49,30 +49,3 @@ I'm currently learning System Design & Cloud-Native architecture
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake.svg)
-
-<sub>To activate the snake animation above: create a repo named exactly <code>avani-srivastavaa</code> (same as your username), add the workflow file below at <code>.github/workflows/snake.yml</code>, then push once so the Action runs and generates the <code>output</code> branch.</sub>
-
-```yaml
-name: generate snake animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: avani-srivastavaa
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
