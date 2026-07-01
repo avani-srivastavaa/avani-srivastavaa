@@ -48,4 +48,8 @@ I'm currently learning System Design & Cloud-Native architecture
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake-dark.svg?v=2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake-light.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake-dark.svg">
+</picture>
