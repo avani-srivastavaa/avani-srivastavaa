@@ -44,7 +44,7 @@ I'm currently learning System Design & Cloud-Native architecture
 
 ## 🏆 GitHub Trophies
 
-![trophy]([https://github-profile-trophy.vercel.app/?username=avani-srivastavaa&theme=darkhub&no-frame=true&row=1&column=6](https://github-readme-stats-wine-nine-15.vercel.app/)
+![trophy](https://github-profile-trophy.vercel.app/?username=avani-srivastavaa&theme=darkhub&no-frame=true&row=1&column=6)
 
 ## 🐍 Contribution Snake
 
