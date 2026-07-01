@@ -26,7 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avani-srivastava-1202b22b9)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avanisrivastava16genai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avani-srivastavaa)
-[![Profile Views](https://komarev.com/ghpvc/?username=avani-srivastavaa&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS)](https://github.com/avani-srivastavaa)
 
 </td>
 </tr>
@@ -41,10 +40,7 @@ avani = {
     "role"     : "Computer Engineering Undergrad @ Pillai College of Engineering",
     "focus"    : ["Full-Stack Dev", "AI/LLM Engineering", "Cloud-Native Systems"],
     "building" : "production-ready apps — microservices, RAG, Kubernetes",
-    "currently": "Fullstack Dev Intern @ PurpleRain Techsafe",
     "open_to"  : ["Internships", "Full-Time", "Platform Engineering", "AI roles"],
-    "fun_fact"  : "Won Best All-Girls Team @ Velocity Tech 2025 ✨",
-    "cgpa"     : 8.7
 }
 ```
 
@@ -58,78 +54,9 @@ avani = {
 
 ---
 
-## ◈ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Skill IQ
-**AI-powered cloud-native interview platform**
-
-5+ FastAPI microservices · Kafka event streaming · LLM + embedding + rubric scoring pipeline · live React/WebSockets dashboards · fully containerised & Kubernetes-orchestrated.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 StudyTube AI
-**YouTube → structured AI study toolkit**
-
-RAG pipeline over full video transcripts · FAISS vector search · Gemini AI tutoring · outputs notes, quizzes, flashcards & mind maps · secure auth + progress tracking.
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍱 TiffinSpin
-**Full-stack meal ordering app**
-
-Secure session auth · dynamic menu · cart-to-checkout flow · modular Flask blueprint architecture · MySQL transactional backend.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Doc Generator Tool
-**Internship @ PurpleRain Techsafe**
-
-Automated end-to-end document generation for 3 doc types — dynamic templates, real-time preview, one-click PDF export; eliminated manual drafting entirely.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
 ## ◈ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -195,17 +122,6 @@ Automated end-to-end document generation for 3 doc types — dynamic templates, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/avani-srivastavaa/avani-srivastavaa/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-## ◈ A Few Highlights
-
-```
-🏆  Best All-Girls Team  —  Velocity Tech: Build for Speed Challenge, SWE PCE  (Apr 2025)
-🥈  2nd Place            —  IoT Project Competition, Unlock Engineering Workshop  (Jun 2023)
-🎙️  Secretary            —  Google Developers Group PCE  ·  12+ events  ·  100+ students
-📜  Certs                —  Google DeepMind AI  ·  AWS ML & DevOps  ·  Google Gen AI Jams
-```
 
 ---
 
